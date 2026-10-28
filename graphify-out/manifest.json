@@ -1,0 +1,56 @@
+{
+  "android/app/build.gradle": {
+    "mtime": 1793140902.6849275,
+    "seen": 1793144886.925494,
+    "ast_hash": "d7d2f746779878c9805f857f1ed6352b",
+    "semantic_hash": "d7d2f746779878c9805f857f1ed6352b"
+  },
+  "android/app/src/main/java/com/elsha3er/mallefypdf/MainActivity.java": {
+    "mtime": 1793137726.8093295,
+    "seen": 1793144886.9255013,
+    "ast_hash": "7f735db2607d4ce8d96f9b41d4360d54",
+    "semantic_hash": "7f735db2607d4ce8d96f9b41d4360d54"
+  },
+  "android/app/src/main/java/com/elsha3er/mallefypdf/SecurityVault.java": {
+    "mtime": 1793140881.6689878,
+    "seen": 1793144886.9255047,
+    "ast_hash": "df721274fdd292aba9b6bd811e3e56f8",
+    "semantic_hash": "df721274fdd292aba9b6bd811e3e56f8"
+  },
+  "android/build.gradle": {
+    "mtime": 1793140892.2604375,
+    "seen": 1793144886.9255066,
+    "ast_hash": "ec60a7f96d60c0b2c72541b2a8dad754",
+    "semantic_hash": "ec60a7f96d60c0b2c72541b2a8dad754"
+  },
+  "android/settings.gradle": {
+    "mtime": 1793140887.209614,
+    "seen": 1793144886.925508,
+    "ast_hash": "0318e205dae551be67865bbee39efc20",
+    "semantic_hash": "0318e205dae551be67865bbee39efc20"
+  },
+  "server/cloudflare-worker.js": {
+    "mtime": 1793142995.8250396,
+    "seen": 1793144886.9255097,
+    "ast_hash": "cb9e8a2e23c443747e2337b0ae3a5b4f",
+    "semantic_hash": "cb9e8a2e23c443747e2337b0ae3a5b4f"
+  },
+  "server/database.py": {
+    "mtime": 1793139174.773208,
+    "seen": 1793144886.9255114,
+    "ast_hash": "5f5088330c26929e264e572e89671e45",
+    "semantic_hash": "5f5088330c26929e264e572e89671e45"
+  },
+  "server/security_vault.py": {
+    "mtime": 1793140930.9697664,
+    "seen": 1793144886.925513,
+    "ast_hash": "4f815f424cdfd8d780cfb9320c831c7c",
+    "semantic_hash": "4f815f424cdfd8d780cfb9320c831c7c"
+  },
+  "server/server.py": {
+    "mtime": 1793140980.6366947,
+    "seen": 1793144886.9255145,
+    "ast_hash": "760f337f10bc1fc6ea98e6fd0ced070d",
+    "semantic_hash": "760f337f10bc1fc6ea98e6fd0ced070d"
+  }
+}
